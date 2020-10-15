@@ -1,3 +1,7 @@
+##### 9.0.0
+* Updated for Shadowlands.
+* Fixed bug with specie list display.
+
 ##### 8.0.1
 * Minor update.
 

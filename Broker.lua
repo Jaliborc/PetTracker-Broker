@@ -31,7 +31,7 @@ function Broker:OnEnable()
 
 	self.tip = CreateFrame('GameTooltip', 'PetTrackerBrokerTip', UIParent, 'GameTooltipTemplate')
 	self.tracker = PetTracker.Tracker(self.tip)
-	self.tracker.maxEntries = 20
+	self.tracker.MaxEntries = 20
 	self.tracker:SetPoint('TOPLEFT', 15, -30)
 	self.tracker.Anchor:SetPoint('TOPLEFT')
 	self.tracker.AddSpecies = function(tracker)
