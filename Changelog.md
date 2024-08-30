@@ -1,3 +1,6 @@
+### 11.1
+* Updated for PetTracker version 11.0.5 and above.
+
 ## 11.0
 * Updated for The War Within.
 * Now uses the official PetTracker art.
