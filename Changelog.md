@@ -1,3 +1,6 @@
+### 11.2
+* Updated for PetTracker version 11.0.7 and above.
+
 ### 11.1
 * Updated for PetTracker version 11.0.5 and above.
 

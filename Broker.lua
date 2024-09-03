@@ -10,29 +10,6 @@ local Broker = PetTracker:NewModule('Broker', LibStub('LibDataBroker-1.1'):NewDa
 	label = PETS,
 }))
 
-local LOCALE = GetLocale()
-local NONE_HERE = 'No known species in this zone.'
-
-if LOCALE == 'deDE' then
-    NONE_HERE = 'Keine bekannte Spezies in dieser Zone.'
-elseif LOCALE == 'frFR' then
-    NONE_HERE = 'Aucune espèce connue dans cette zone.'
-elseif LOCALE == 'esES' or LOCALE == 'esMX' then
-    NONE_HERE = 'No hay especies conocidas en esta zona.'
-elseif LOCALE == 'itIT' then
-    NONE_HERE = 'Nessuna specie conosciuta in questa zona.'
-elseif LOCALE == 'ptBR' or LOCALE == 'ptPT' then
-    NONE_HERE = 'Nenhuma espécie conhecida nesta zona.'
-elseif LOCALE == 'ruRU' then
-    NONE_HERE = 'В этой зоне нет известных видов.'
-elseif LOCALE == 'koKR' then
-    NONE_HERE = '이 지역에는 알려진 종이 없습니다.'
-elseif LOCALE == 'zhCN' then
-    NONE_HERE = '该区域没有已知物种。'
-elseif LOCALE == 'zhTW' then
-    NONE_HERE = '此區域中無已知物種。'
-end
-
 
 --[[ Startup ]]--
 
@@ -66,11 +43,7 @@ function Broker:Update()
 end
 
 function Broker:Resize()
-	if self.tracker:IsShown() then
-		self.tip:SetSize(265, self.tracker:GetHeight())
-	else
-		self.tip:SetText(NONE_HERE)
-	end
+	self.tip:SetSize(265, self.tracker:GetHeight())
 end
 
 
