@@ -1,3 +1,6 @@
+### 11.3
+* Updated TOC.
+
 ### 11.2
 * Updated for PetTracker version 11.0.7 and above.
 

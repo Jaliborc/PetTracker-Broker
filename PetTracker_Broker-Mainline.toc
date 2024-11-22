@@ -4,8 +4,8 @@
 ## Author: Jaliborc (João Cardoso)
 
 ## Dependencies: PetTracker
-## Interface: 110002
-## Version: 11.2
+## Interface: 110005
+## Version: 11.3
 
 LibDataBroker-1.1\LibDataBroker-1.1.lua
 Broker.lua
