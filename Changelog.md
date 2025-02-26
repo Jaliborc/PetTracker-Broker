@@ -1,3 +1,6 @@
+### 11.4
+* Added support for the new addon list native grouping capabilities.
+
 ### 11.3
 * Updated TOC.
 
