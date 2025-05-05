@@ -1,3 +1,6 @@
+### 11.5
+* Updated description to match the new addon list formatting.
+
 ### 11.4
 * Added support for the new addon list native grouping capabilities.
 

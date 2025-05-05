@@ -7,6 +7,7 @@ local Broker = PetTracker:NewModule('Broker', LibStub('LibDataBroker-1.1'):NewDa
 	tocname = 'PetTracker',
 	icon = 'Interface/Addons/PetTracker/art/logo',
 	type = 'data source',
+	tocname = ...,
 	label = PETS,
 }))
 
