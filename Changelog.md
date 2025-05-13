@@ -1,3 +1,6 @@
+### 11.6
+* TOC update.
+
 ### 11.5
 * Updated description to match the new addon list formatting.
 
