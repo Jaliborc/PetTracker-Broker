@@ -1,12 +1,11 @@
-## Title: PetTracker |cff20ff20Broker|r
-## IconTexture: Interface/Addons/PetTracker/art/plugin
+## Title: |TInterface/Addons/PetTracker/art/plugin:16:16|t PetTracker |cff20ff20Broker|r
 ## Notes: Displays the pet zone tracker on a DataBroker display, such as Titan, FuBar, Bagnon, etc.|n|cffbbbbbbBy João Cardoso|r|n|n|TInterface/Addons/PetTracker/Art/Paypal:12:12|t |cff82c5ffpaypal.me/jaliborc|r|n|TInterface/Addons/PetTracker/Art/Patreon:12:12:0:-4|t |cff82c5ffpatreon.com/jaliborc|r|n|TInterface/Addons/PetTracker/art/discord:12:12:0:-2|t |cff82c5ffbit.ly/discord-jaliborc|r|n|n
 ## Author: Jaliborc (João Cardoso)
 ## X-License: All Rights Reserved
 ## Category: Battle Pets
 
 ## Dependencies: PetTracker
-## Interface: 110105
+## Interface: 110105, 50500, 40402, 30404, 20504
 ## Version: 11.7
 
 LibDataBroker-1.1\LibDataBroker-1.1.lua

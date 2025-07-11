@@ -1,3 +1,6 @@
+### 11.7
+* Added support for Mists of Pandaria servers.
+
 ### 11.6
 * TOC update.
 
