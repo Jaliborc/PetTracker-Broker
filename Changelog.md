@@ -1,3 +1,6 @@
+## 11.2
+* Retail: Updated for Ghosts of K'aresh update.
+
 ### 11.7
 * Added support for Mists of Pandaria servers.
 
