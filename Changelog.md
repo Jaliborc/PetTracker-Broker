@@ -1,3 +1,6 @@
+## 12.0.0
+* Updated TOC numbers for Midnight live servers.
+
 ### 11.2.2
 * Retail: Added support for Midnight open beta.
 
