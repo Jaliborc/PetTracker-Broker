@@ -6,8 +6,8 @@
 ## Category: Battle Pets
 
 ## Dependencies: PetTracker
-## Interface: 120001, 120000
-## Version: 12.0.0
+## Interface: 120007
+## Version: 12.0.1
 
 LibDataBroker-1.1\LibDataBroker-1.1.lua
 Broker.lua
