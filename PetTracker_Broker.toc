@@ -7,7 +7,7 @@
 
 ## Dependencies: PetTracker
 ## Interface: 120100, 50504, 40402, 30404, 20506
-## Version: 12.1
+## Version: 12.1.1
 
 LibDataBroker-1.1\LibDataBroker-1.1.lua
 Broker.lua

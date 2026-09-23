@@ -67,6 +67,6 @@ function Broker:OnClick(button)
 		PetTracker.ToggleOption('zoneTracker')
 	else
 		Broker:OnLeave()
-		Broker.tracker.Menu(self)
+		Broker.tracker.ToggleMenu(self)
 	end
 end

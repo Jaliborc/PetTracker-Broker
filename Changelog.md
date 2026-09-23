@@ -1,3 +1,6 @@
+### 12.1.1
+* Fixed bug that prevented left-clicking the button from showing the context menu.
+
 ## 12.1
 * Added support for 12.1 servers and the new classic TOC format.
 
