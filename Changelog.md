@@ -1,4 +1,7 @@
 ### 12.1.1
+* TOC Update
+
+### 12.1.1
 * Fixed bug that prevented left-clicking the button from showing the context menu.
 
 ## 12.1
